@@ -8,3 +8,4 @@
 -Now open the project but don't play it
 -Enable the Va rest plugin from unreal plugins option
 -Enable the photonCloud from unreal plugins option
+-Remove BP_Avatar blueprint from Metahumans/BP_Io folder
